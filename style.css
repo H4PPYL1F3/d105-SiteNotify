@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(198, 241, 3);
+    height: 50px;
+    width: 100%;
+}
+
+nav p{
+
+}
+
+header{
+    background-color: rgb(248, 174, 37);
+    height: 40ex;
+    width: 100%;
+}
